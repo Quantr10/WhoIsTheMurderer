@@ -1,4 +1,4 @@
-# 🕵️‍♂️ WhoIsTheMurderer: A Text-Based Adventure Game
+# WhoIsTheMurderer: A Text-Based Adventure Game
 
 ## 🎮 Project Overview
 
@@ -62,7 +62,6 @@ Each command affects the character's environment or inventory. Try exploring, pi
 
 - **Java** (JDK 17 or later)
 - **Object-Oriented Programming** principles
-- **Text-based input** via `Scanner`
 - **ArrayLists & HashMaps** for item and world management
 
 ---
